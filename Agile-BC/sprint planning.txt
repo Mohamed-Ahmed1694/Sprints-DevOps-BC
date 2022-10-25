@@ -1,0 +1,29 @@
+Sprint Goal:
+- Build & modify an app and provide (users-restaurant-sysadmins) the way to register and login into the system by passwords.
+
+Team Capacity:
+		- 6 members per team
+		- 38 hours per week
+		- 10 hours per sprint
+User epic:
+As a user, I want to see and check where is the delivery live location in the current moment.
+As a restaurant I want to make better meals so I want to which meals are better, and which meals are worse.
+As a sys admin I want to control the orders and the app easily, which will reflect the user experience.
+As a delivery person, I do not want to go for the far orders, and I want the nearest order in my current location.
+As a delivery person, I want both user and restaurant rates.
+As a delivery person, I want the light traffice to save the waste time.
+As a user, I want to pay with my bank cards, in case of have not any money.
+As a user, I want my money back, In case of refund the order ASAP.
+As a delivery, I want easy app interface.
+As a restaurant, I want to communicate with the user, to modify the orders.
+
+Sprint Tasks:
+
+
+ creat database for all kinds of users
+ link the paying option with online payment
+ link the driver location with Google Maps
+ put rating function
+ show the user information for the restaurant
+ make best route for delivery using google maps
+ easy acess&control of the app
